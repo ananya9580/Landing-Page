@@ -21,10 +21,10 @@ This is a responsive Landing Page created using HTML, CSS, and JavaScript as par
 - assets/
 
 ## 🚀 Live Demo
-https://ananya9580.github.io/REPOSITORY-NAME/
+Click Here to view(https://ananya9580.github.io/Landing-Page)
 
 ## 📂 Repository
-https://github.com/ananya9580/REPOSITORY-NAME
+https://github.com/ananya9580/Landing-Page
 
 ## 👩‍💻 Author
 **Ananya Shukla**
